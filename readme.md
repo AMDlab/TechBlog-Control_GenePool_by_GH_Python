@@ -1,4 +1,4 @@
-# 【grasshopper】
+# 【grasshopper】GenePoolを操る
 
 ## ファイル概要
 
