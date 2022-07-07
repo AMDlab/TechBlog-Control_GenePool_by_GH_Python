@@ -1,4 +1,4 @@
-# 【grasshopper】GenePoolを操る
+# 【grasshopper】GHPythonでGenePoolを操る
 
 ## ファイル概要
 
@@ -11,7 +11,7 @@
 
 ## TechBlog
 
-[【Grasshopper】GenePoolを操る](https://amdlaboratory.com/amdblog/【grasshopper】genepoolを操る)
+[【Grasshopper】GHPythonでGenePoolを操る](https://amdlaboratory.com/amdblog/%e3%80%90grasshopper%e3%80%91ghpython%e3%81%a7ggenepool%e3%82%92%e6%93%8d%e3%82%8b/)
 
 ## LICENSE
 
